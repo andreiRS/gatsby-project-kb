@@ -10,9 +10,6 @@ const Topic = (props: TopicProps) => {
   return (
     <>
       <ThemeTopic {...props}></ThemeTopic>
-      <div className="comment-wrapper">
-        <Comment issueTerm={props.file.fields.slug} />
-      </div>
     </>
   )
 }
