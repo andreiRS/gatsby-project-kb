@@ -16,4 +16,5 @@ https://github.com/MaggieAppleton/digital-gardeners
 
 
 ---
-tags: #seed-🌱 #output/note
+tags: #seed-🌱 #output/note.
+links: [[Home]]

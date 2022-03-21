@@ -1,3 +1,6 @@
 # Decision Making
 
-Hello World
+Hello World. Looks very promissing.
+
+---
+links: [[Home]]
