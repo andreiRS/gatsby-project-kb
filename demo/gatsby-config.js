@@ -15,6 +15,7 @@ module.exports = {
       options: {
         contentPath: path.resolve(__dirname, 'content'),
         wikiLinkLabelTemplate: '[[{{ title }}]]',
+        rootNote: 'readme',
         getPluginMdx(defaultPluginMdx) {
           defaultPluginMdx.options.gatsbyRemarkPlugins.push({
             resolve: 'gatsby-remark-prismjs',
