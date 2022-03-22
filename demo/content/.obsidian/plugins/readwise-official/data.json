@@ -1,0 +1,17 @@
+{
+  "token": "fdI8bLdH9dTyaufVBgIE5XFgvCl35yGYOqobXvXXvaDyZfLRQC",
+  "readwiseDir": "highlights",
+  "frequency": "0",
+  "triggerOnLoad": true,
+  "isSyncing": false,
+  "lastSyncFailed": false,
+  "lastSavedStatusID": 3057663,
+  "currentSyncStatusID": 0,
+  "refreshBooks": true,
+  "booksToRefresh": [],
+  "booksIDsMap": {
+    "highlights/Books/The Mom Test.md": "14148220",
+    "highlights/Books/Becoming Supernatural.md": "13893086"
+  },
+  "reimportShowConfirmation": true
+}
