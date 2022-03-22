@@ -14,3 +14,4 @@ yarn.lock
 yalc.lock
 
 packages/*/lib
+demo/content/logseq/bak

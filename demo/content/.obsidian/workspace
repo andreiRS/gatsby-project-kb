@@ -7,11 +7,9 @@
         "id": "79672076a1b7bd44",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "Home.md",
-            "mode": "source",
-            "source": false
+            "file": "assets/razvan-andrei-surdu_1647977268210_0.png"
           }
         }
       }
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "assets/razvan-andrei-surdu_1647977268210_0.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +84,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "assets/razvan-andrei-surdu_1647977268210_0.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -100,13 +98,15 @@
   },
   "active": "79672076a1b7bd44",
   "lastOpenFiles": [
+    "assets/razvan-andrei-surdu_1647977268210_0.png",
+    "journals/2022_03_21.md",
+    "journals/2022_03_22.md",
     "Home.md",
     "pages/Digital Garden.md",
     "Todo.md",
     "highlights/Books/The Mom Test.md",
     "highlights/The Mom Test.md",
     "highlights/Becoming Supernatural.md",
-    "highlights/Books/Becoming Supernatural.md",
-    "pages/Decision Making.md"
+    "highlights/Books/Becoming Supernatural.md"
   ]
 }
