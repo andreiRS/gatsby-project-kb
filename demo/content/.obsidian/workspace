@@ -76,6 +76,18 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "afa9428176651dde",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Home.md",
+                "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -84,18 +96,17 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "79672076a1b7bd44",
   "lastOpenFiles": [
     "Home.md",
+    "pages/Digital Garden.md",
+    "Todo.md",
     "highlights/Books/The Mom Test.md",
     "highlights/The Mom Test.md",
     "highlights/Becoming Supernatural.md",
     "highlights/Books/Becoming Supernatural.md",
-    "pages/Decision Making.md",
-    "Todo.md",
-    "pages/Digital Garden.md"
+    "pages/Decision Making.md"
   ]
 }

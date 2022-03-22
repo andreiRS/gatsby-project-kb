@@ -1,10 +1,10 @@
 # Digital Garden
 
-Digital gardens represent a collection of your thoughts and knowledge on various topics. Some might be as small as one paragraph, others as big as a complete guide on a subject.
+Digital gardens represent a collection of your thoughts and knowledge on various topics. Some notes might be as small as one paragraph, others as big as a complete guide on a subject.
 
-When new ideas are formed, they are compared with seeds planted in a garden. As time passes and your knowledge increases, the ideas start to shape themselves into an organized form, reaching a so-called "evergreen" state.
+Every idea that resonates with you is a seed planted in your digital garden. As time passes, these ideas start to grow, to expand and reach a so-called "evergreen" state.
 
-Digital gardens differ from traditional blogs in that posts are not ordered chronologically, but instead resemble a network of ideas that are linked together.
+Digital gardens differ from traditional blogs in that posts are not ordered chronologically, but instead resemble a network of ideas linked together.
 
 You can get started nowadays with a plethora of options. If you want solutions out of the box, you can use Obsidian, Notion, and TiddlyWiki.
 
