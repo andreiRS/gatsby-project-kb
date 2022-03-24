@@ -12,6 +12,8 @@
   "dependencies": {
     "gatsby": "^4.4.0",
     "gatsby-plugin-no-sourcemaps": "^2.8.0",
+    "gatsby-plugin-copy-files-enhanced": "^1.1.1",
+    "gatsby-remark-copy-linked-files": "^4.10.0",
     "gatsby-remark-prismjs": "^3.13.0",
     "gatsby-theme-kb": "^0.9.3",
     "prismjs": "^1.23.0",

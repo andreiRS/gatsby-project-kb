@@ -7,9 +7,12 @@
         "id": "79672076a1b7bd44",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "assets/razvan-andrei-surdu_1647977268210_0.png"
+            "file": "Home.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
           }
         }
       }
@@ -51,7 +54,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1a448582473741e4",
@@ -67,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/razvan-andrei-surdu_1647977268210_0.png",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/razvan-andrei-surdu_1647977268210_0.png",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -94,19 +98,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "79672076a1b7bd44",
   "lastOpenFiles": [
+    "Home.md",
+    "journals/2022_03_22.md",
+    "assets/Readme.md",
     "assets/razvan-andrei-surdu_1647977268210_0.png",
     "journals/2022_03_21.md",
-    "journals/2022_03_22.md",
-    "Home.md",
     "pages/Digital Garden.md",
     "Todo.md",
     "highlights/Books/The Mom Test.md",
     "highlights/The Mom Test.md",
-    "highlights/Becoming Supernatural.md",
-    "highlights/Books/Becoming Supernatural.md"
+    "highlights/Becoming Supernatural.md"
   ]
 }
