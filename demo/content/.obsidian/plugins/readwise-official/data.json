@@ -2,16 +2,18 @@
   "token": "fdI8bLdH9dTyaufVBgIE5XFgvCl35yGYOqobXvXXvaDyZfLRQC",
   "readwiseDir": "highlights",
   "frequency": "0",
-  "triggerOnLoad": true,
+  "triggerOnLoad": false,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 3064624,
+  "lastSavedStatusID": 3090318,
   "currentSyncStatusID": 0,
   "refreshBooks": true,
   "booksToRefresh": [],
   "booksIDsMap": {
     "highlights/Books/The Mom Test.md": "14148220",
-    "highlights/Books/Becoming Supernatural.md": "13893086"
+    "highlights/Books/Becoming Supernatural.md": "13893086",
+    "highlights/Books/Quiet.md": "14323169",
+    "highlights/Books/Write Useful Books.md": "14316616"
   },
   "reimportShowConfirmation": true
 }

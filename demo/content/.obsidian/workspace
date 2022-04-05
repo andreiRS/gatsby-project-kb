@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Home.md",
+            "file": "pages/How to set up your self-hosted blog.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -54,8 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1a448582473741e4",
@@ -71,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "pages/How to set up your self-hosted blog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "pages/How to set up your self-hosted blog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -103,6 +102,7 @@
   },
   "active": "79672076a1b7bd44",
   "lastOpenFiles": [
+    "pages/How to set up your self-hosted blog.md",
     "Home.md",
     "journals/2022_03_22.md",
     "assets/Readme.md",
@@ -111,7 +111,6 @@
     "pages/Digital Garden.md",
     "Todo.md",
     "highlights/Books/The Mom Test.md",
-    "highlights/The Mom Test.md",
-    "highlights/Becoming Supernatural.md"
+    "highlights/The Mom Test.md"
   ]
 }
