@@ -3,5 +3,6 @@
   "livePreview": true,
   "alwaysUpdateLinks": true,
   "promptDelete": false,
-  "attachmentFolderPath": "assets"
+  "attachmentFolderPath": "assets",
+  "useMarkdownLinks": true
 }

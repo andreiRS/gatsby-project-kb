@@ -13,9 +13,9 @@
 	- In the firewall section select **Allow HTTP and HTTPS traffic**
 
 The configuration should look like:
-![[CleanShot 2022-03-23 at 17.31.52@2x.png]]
-![[CleanShot 2022-03-23 at 17.33.37@2x.png]]
-![[CleanShot 2022-03-23 at 17.32.30@2x.png]]
+![](../assets/google-cloud-screenshoot-1.png)
+![](../assets/google-cloud-screenshoot-2.png)
+![](../assets/google-cloud-screenshoot-3.png)
 
 ### Define a static IP
 - **View network details** by clicking on the three dots to the right of your newly created instance

@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "79672076a1b7bd44",
+        "id": "48ce11a15a5063a8",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -100,17 +100,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "79672076a1b7bd44",
+  "active": "48ce11a15a5063a8",
   "lastOpenFiles": [
     "pages/How to set up your self-hosted blog.md",
-    "Home.md",
     "journals/2022_03_22.md",
+    "logseq/bak/pages/How to set up your self-hosted blog/2022-04-05T05_21_06.810Z.md",
+    "journals/2022_03_21.md",
+    "pages/contents.md",
+    "Home.md",
     "assets/Readme.md",
     "assets/razvan-andrei-surdu_1647977268210_0.png",
-    "journals/2022_03_21.md",
     "pages/Digital Garden.md",
-    "Todo.md",
-    "highlights/Books/The Mom Test.md",
-    "highlights/The Mom Test.md"
+    "Todo.md"
   ]
 }
