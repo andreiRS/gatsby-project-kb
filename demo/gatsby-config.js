@@ -23,6 +23,7 @@ module.exports = {
           '**/.vscode/**',
           '**/.cache/**',
           '**/bak/**',
+          '**/journals/**',
         ],        
         getPluginMdx(defaultPluginMdx) {
           defaultPluginMdx.options.gatsbyRemarkPlugins.push({

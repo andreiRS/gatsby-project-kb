@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "48ce11a15a5063a8",
+        "id": "ed3775e8d840f61c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pages/How to set up your self-hosted blog.md",
+            "file": "Home.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/How to set up your self-hosted blog.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,30 +87,51 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/How to set up your self-hosted blog.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "c81c9ec1d80295c5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5f1da2cf718413c3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Home.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "48ce11a15a5063a8",
+  "active": "ed3775e8d840f61c",
   "lastOpenFiles": [
-    "pages/How to set up your self-hosted blog.md",
-    "journals/2022_03_22.md",
-    "logseq/bak/pages/How to set up your self-hosted blog/2022-04-05T05_21_06.810Z.md",
-    "journals/2022_03_21.md",
-    "pages/contents.md",
     "Home.md",
-    "assets/Readme.md",
-    "assets/razvan-andrei-surdu_1647977268210_0.png",
+    "todo.md",
+    "Untitled.md",
+    "Default - Notes.md",
+    "assets/google-cloud-screenshoot-1.png",
+    "pages/How to set up your self-hosted blog.md",
     "pages/Digital Garden.md",
-    "Todo.md"
+    "assets/razvan-andrei-surdu_1647977268210_0.png",
+    "journals/2022_03_21.md",
+    "journals/2022_03_22.md"
   ]
 }

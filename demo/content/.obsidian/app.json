@@ -4,5 +4,6 @@
   "alwaysUpdateLinks": true,
   "promptDelete": false,
   "attachmentFolderPath": "assets",
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "communityPluginSortOrder": "release"
 }
