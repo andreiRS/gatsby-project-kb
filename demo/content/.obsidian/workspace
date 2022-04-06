@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Home.md",
+            "file": "pages/Test.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "pages/Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "pages/Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,12 +110,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "pages/Test.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -123,15 +123,15 @@
   },
   "active": "ed3775e8d840f61c",
   "lastOpenFiles": [
+    "pages/Test.md",
+    "journals/2022_04_05.md",
+    "pages/My Progressive Summarization System Using Roam Research - YouTube.md",
+    "pages/Digital Garden.md",
+    "pages/Decision Making.md",
+    "pages/contents.md",
     "Home.md",
     "todo.md",
     "Untitled.md",
-    "Default - Notes.md",
-    "assets/google-cloud-screenshoot-1.png",
-    "pages/How to set up your self-hosted blog.md",
-    "pages/Digital Garden.md",
-    "assets/razvan-andrei-surdu_1647977268210_0.png",
-    "journals/2022_03_21.md",
-    "journals/2022_03_22.md"
+    "Default - Notes.md"
   ]
 }

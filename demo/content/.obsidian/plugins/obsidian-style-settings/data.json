@@ -1,0 +1,19 @@
+{
+  "Yin and Yang@@l-accent": "#4E86D8",
+  "Yin and Yang@@d-accent": "#4E86D8",
+  "minimal-style@@h1": "2em",
+  "wysiwyg@@code-select": "no-display",
+  "wysiwyg@@blockquote": true,
+  "wysiwyg@@color-blockquote@@dark": "#B5B5B5",
+  "wysiwyg@@tag-background-color@@dark": "#FFFFFF",
+  "wysiwyg@@text-mark@@dark": "#F1B12454",
+  "wysiwyg@@markdown-opacity": 0.5,
+  "wysiwyg@@url-icon": true,
+  "wysiwyg@@link-hover@@dark": "#698ECB",
+  "minimal-style@@text-italic@@dark": "#FFB86C",
+  "minimal-style@@text-bold@@dark": "#FF6C6C",
+  "obsidian-indentation-guides@@indentation-guide-adjust": 0,
+  "minimal-style@@h3-color@@dark": "#FFD067",
+  "minimal-style@@h3-weight": 650,
+  "minimal-style@@h2": "1.5em"
+}
