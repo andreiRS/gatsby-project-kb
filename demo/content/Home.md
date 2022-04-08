@@ -9,4 +9,4 @@
 - 📫 You can reach me at [Twitter](https://twitter.com/messages/compose?recipient_id=25110315)
 
 ## About this notes
-This is my [[Digital Garden]]. It's a place where I share my thoughts in process. You can access it online at: [garden.razvan-andrei-surdu.eu](https://garden.razvan-andrei-surdu.eu) or if you want to read only the end result, you can access my blog here: [razvan-andrei-surdu.eu](http://razvan-andrei-surdu.eu)
+This is my [[Digital Garden|Garden]]. It's a place where I share my thoughts in process. You can access it online at: [garden.razvan-andrei-surdu.eu](https://garden.razvan-andrei-surdu.eu) or if you want to read only the end result, you can access my blog here: [razvan-andrei-surdu.eu](http://razvan-andrei-surdu.eu)
