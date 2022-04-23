@@ -9,11 +9,6 @@
   "currentSyncStatusID": 0,
   "refreshBooks": true,
   "booksToRefresh": [],
-  "booksIDsMap": {
-    "highlights/Books/The Mom Test.md": "14148220",
-    "highlights/Books/Becoming Supernatural.md": "13893086",
-    "highlights/Books/Quiet.md": "14323169",
-    "highlights/Books/Write Useful Books.md": "14316616"
-  },
+  "booksIDsMap": {},
   "reimportShowConfirmation": true
 }

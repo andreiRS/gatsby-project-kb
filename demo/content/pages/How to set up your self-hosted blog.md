@@ -1,5 +1,10 @@
 # How to set up your self-hosted blog
 
+This guide will help you set a new blog running in docker on an Ubuntu machine on the google cloud platform. We will be adding also a free https certificate, thanks to let’s encrypt. 
+
+![](https://i.imgur.com/ExMiaVv.jpg)
+Photo by [Clément Hélardot](https://unsplash.com/@clemhlrdt?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/computer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
 ## Set up a Google Cloud Instance
 
 - Create an account at [Compute Engine: Virtual Machines (VMs)  |  Google Cloud](https://cloud.google.com/compute). Checkout their [Free Trial and Free Tier](https://cloud.google.com/free) -  [Google Cloud Free Program](https://cloud.google.com/free/docs/gcp-free-tier).
@@ -13,12 +18,11 @@
 	- In the firewall section select **Allow HTTP and HTTPS traffic**
 
 The configuration should look like:
-![](https://i.imgur.com/dfQIweN.png)
+![](https://i.imgur.com/Nl0v45w.png)
 
-![](https://i.imgur.com/7nWc0jl.png)
+![](https://i.imgur.com/tRbGHnd.png)
 
-![](https://i.imgur.com/qREj8d1.png)
-
+![](https://i.imgur.com/xgpZgyA.png)
 
 ### Define a static IP
 - **View network details** by clicking on the three dots to the right of your newly created instance
@@ -69,7 +73,9 @@ sudo apt install -y nginx
 
 If you access your server though the browser you should see the default nginx message:
 
-- [ ] Add Screenshot
+
+![](https://i.imgur.com/wbGAyqj.png)
+
 
 ### Install docker
 Update `apt` package index
@@ -110,7 +116,28 @@ sudo docker run hello-world
 
 You should see this message:
 
-- [ ] Add Screenshot
+```bash
+Hello from Docker!
+This message shows that your installation appears to be working correctly.
+
+To generate this message, Docker took the following steps:
+ 1. The Docker client contacted the Docker daemon.
+ 2. The Docker daemon pulled the "hello-world" image from the Docker Hub.
+    (arm64v8)
+ 3. The Docker daemon created a new container from that image which runs the
+    executable that produces the output you are currently reading.
+ 4. The Docker daemon streamed that output to the Docker client, which sent it
+    to your terminal.
+
+To try something more ambitious, you can run an Ubuntu container with:
+ $ docker run -it ubuntu bash
+
+Share images, automate workflows, and more with a free Docker ID:
+ https://hub.docker.com/
+
+For more examples and ideas, visit:
+ https://docs.docker.com/get-started/
+```
 
 Official Documentation: [Install Docker Engine on Ubuntu | Docker Documentation](https://docs.docker.com/engine/install/ubuntu/)
 
@@ -269,4 +296,4 @@ If you need help check out [Certbot Instructions | Certbot](https://certbot.eff.
  
 
 ---
-links: [[Tech]], #coding, #output/blog  
+links: [[Tech]], #coding, #output/blog , #published
